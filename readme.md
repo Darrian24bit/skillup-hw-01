@@ -3,6 +3,6 @@
 </dl>
 ![alt text][logo]
 
-[logo]: (https://cdn.pixabay.com/photo/2020/03/26/16/11/corona-4970836_960_720.jpg)"img"
+[logo]: https://cdn.pixabay.com/photo/2020/03/26/16/11/corona-4970836_960_720.jpg "img"
 
 ![alt text] (https://cdn.pixabay.com/photo/2020/03/26/16/11/corona-4970836_960_720.jpg)
